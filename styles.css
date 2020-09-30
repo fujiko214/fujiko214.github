@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: #592F6E ;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1 {
+    padding: auto;
+    margin: auto;
+}
+
+.pp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+}
